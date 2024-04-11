@@ -28,7 +28,7 @@ export const styles = StyleSheet.create({
     fontSize: 16,
     textAlign: 'center',
   },
-  jobCard: {
+  shipCard: {
     flexDirection: 'row',
     alignItems: 'center',
     backgroundColor: Colors.white,
@@ -47,16 +47,16 @@ export const styles = StyleSheet.create({
     borderRadius: 30,
     backgroundColor: Colors.lightGrey,
   },
-  jobInfo: {
+  shipInfo: {
     flex: 1,
     padding: 10,
   },
-  jobTitle: {
+  shipTitle: {
     fontSize: 20,
     fontWeight: 'bold',
     marginBottom: 5,
   },
-  jobCompany: {
+  shipType: {
     fontSize: 16,
     marginBottom: 5,
   },

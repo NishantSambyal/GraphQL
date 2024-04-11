@@ -44,14 +44,14 @@ const HomeScreen = () => {
           showsVerticalScrollIndicator={false}
           ListHeaderComponent={renderHeader()}
           renderItem={({ item }) => (
-            <View style={styles.jobCard}>
+            <View style={styles.shipCard}>
               <Image
                 style={styles.logo}
                 source={{ uri: item.image }}
               />
-              <View style={styles.jobInfo}>
-                <Text style={styles.jobTitle}>{item.name}</Text>
-                <Text style={styles.jobCompany}>{item.type}</Text>
+              <View style={styles.shipInfo}>
+                <Text style={styles.shipTitle}>{item.name}</Text>
+                <Text style={styles.shipType}>{item.type}</Text>
               </View>
             </View>
           )}
