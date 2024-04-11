@@ -18,7 +18,7 @@ npm start
 yarn start
 ```
 
-##Screenshots
+## Screenshots
 ![Simulator Screenshot - iPhone 15 Pro - 2024-04-11 at 16 10 29](https://github.com/NishantSambyal/GraphQL/assets/29910510/e459a121-6d7b-4a38-ad23-7f94f827ba29)
 
 
