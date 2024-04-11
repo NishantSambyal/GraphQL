@@ -18,6 +18,10 @@ npm start
 yarn start
 ```
 
+##Screenshots
+![Simulator Screenshot - iPhone 15 Pro - 2024-04-11 at 16 10 29](https://github.com/NishantSambyal/GraphQL/assets/29910510/e459a121-6d7b-4a38-ad23-7f94f827ba29)
+
+
 ## Step 2: Start your Application
 
 Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
